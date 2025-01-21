@@ -69,4 +69,5 @@ module sum1bcc (A, B, Ci, Cout, S);
 endmodule
 
 ### sumador 
-![Texto alternativo](https://github.com/unal-edigital1-lab/lab01-2024-2-m0nkeyh4ck/blob/master/img/sim1.png)
+```
+![Texto alternativo](img/sim1.png)

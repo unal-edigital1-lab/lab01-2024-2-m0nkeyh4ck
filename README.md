@@ -75,6 +75,5 @@ endmodule
 
 ### implementarlo en el FPGA desde quartus
 
-
-![Texto alternativo](img/cuart1.png)
-![Texto alternativo](img/cuart2.png)
+![Texto alternativo](img/quart1.png)
+![Texto alternativo](img/quart2.png)

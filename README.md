@@ -1,11 +1,8 @@
-# lab01- sumador 
-## nombre
+# lab01- sumador de 1 bit
+
+## Integrantes
 Jesus Antonio Lopez Trigozo
 
-
-## informe de laoratorio 
-
-# Informe del Laboratorio: Sumador de un Bit
 
 ## Introducción
 

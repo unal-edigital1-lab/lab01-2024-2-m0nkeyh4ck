@@ -69,3 +69,4 @@ module sum1bcc (A, B, Ci, Cout, S);
 endmodule
 
 ### sumador 
+![Texto alternativo](img/sim1.png)

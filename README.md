@@ -3,4 +3,6 @@
 
 ## informe de laoratorio 
 
+
+hola perros
 ### sumador 

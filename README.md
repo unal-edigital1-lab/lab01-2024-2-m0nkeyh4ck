@@ -68,6 +68,13 @@ module sum1bcc (A, B, Ci, Cout, S);
   end
 endmodule
 
-### sumador 
 ```
+### simulación  
+
 ![Texto alternativo](img/sim1.png)
+
+### implementarlo en el FPGA desde quartus
+
+
+![Texto alternativo](img/cuart1.png)
+![Texto alternativo](img/cuart2.png)
